@@ -1,0 +1,20 @@
+products :
+  - id : 1
+    name : "product 1"
+    quantity : 100
+    PurchasePrice : 99
+    sellingPrice : 199
+    commission : 3.33
+    category :
+     - id : 1
+       name : "category 1"
+  - id: 2
+    name: "product 2"
+    quantity: 100
+    PurchasePrice: 99
+    sellingPrice: 199
+    commission: 3.33
+    category:
+      - id: 1
+        name: "category 2"
+
